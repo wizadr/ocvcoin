@@ -11,7 +11,7 @@ printf "
 apt-get update																
 
 apt-get -y install python3-pip
-pip3 install opencv-python==3.2.0.6
+pip3 install opencv-python==3.2.0.6 --force-reinstall
 
 apt-get -y install build-essential libtool autotools-dev autoconf pkg-config libssl-dev
 apt-get -y install libboost-all-dev
