@@ -10,10 +10,11 @@ printf "
 																
 apt-get update																
 
-
+sudo apt-get -y install software-properties-common
 
 sudo add-apt-repository -y ppa:deadsnakes/ppa
 sudo apt-get -y install python3.6
+sudo apt-get -y install pip
 python3.6 -m pip install opencv-python==3.2.0.6 --force-reinstall
 
 
