@@ -50,14 +50,14 @@ Simple Wallet: [https://wallet.ocvcoin.com/](https://wallet.ocvcoin.com/)
 Build From Source
 ----------------
 
-(FOR UBUNTU 20)
+FOR UBUNTU 20:
 
 ```
 wget -qO - https://raw.githubusercontent.com/ocvcoin/ocvcoin/master/UBUNTU20_INSTALLER.sh | sudo bash
 
 ```
 
-(FOR UBUNTU 18)
+FOR UBUNTU 18:
 
 ```
 wget -qO - https://raw.githubusercontent.com/ocvcoin/ocvcoin/master/UBUNTU18_INSTALLER.sh | sudo bash
@@ -69,7 +69,7 @@ Simple Shell Commands
 ----------------
 
 
-If you have a desktop, you can use the graphical interface.
+Start the graphical interface:
 
 
 ```
