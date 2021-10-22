@@ -3,7 +3,9 @@ What is Ocvcoin?
 
 It is modified version of bitcoin and it's pow mechanism. Heavy computations are used for resistance to asics. It uses the Open CV library for these computations.
 
-HOW TO INSTALL & MINING VIDEO: [https://youtu.be/z3Eh1TgPu78](https://youtu.be/z3Eh1TgPu78)
+HOW TO MINING WITHOUT INSTALL ANY PROGRAM: [https://youtu.be/6ADEtxtAEyQ](https://youtu.be/6ADEtxtAEyQ)
+
+HOW TO INSTALL & MINING: [https://youtu.be/z3Eh1TgPu78](https://youtu.be/z3Eh1TgPu78)
 
 COMMUNITY: [https://bitcointalk.org/index.php?topic=5364831.0](https://bitcointalk.org/index.php?topic=5364831.0)
 
@@ -24,7 +26,9 @@ OCVCOIN: [ocvcoin-0.21.1-win64-setup.exe](https://github.com/ocvcoin/ocvcoin/rel
 How Can I Mining?
 ----------------
 
-No mining pool or special mining software yet. You can try to mine with the built-in mining tool.
+No mining pool yet. You can try to mine with the [built-in mining tool](https://youtu.be/z3Eh1TgPu78) or [our simple miner script](https://github.com/ocvcoin/ocv_miner).
+
+**Via Built-in mining tool:**
 
 Firstly, if you haven't created one yet, you should create a wallet for yourself by clicking the "Create a new wallet" button.
 
@@ -36,6 +40,9 @@ Open the console pressing CTRL + T
 
 To try to mine one block, type "generatetoaddress 1 TheAddressYouJustCopied" in the command line and enter.
 
+**Via Miner Script:**
+
+[https://youtu.be/6ADEtxtAEyQ](https://youtu.be/6ADEtxtAEyQ)
 
 
 Some Online Services
