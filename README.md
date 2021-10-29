@@ -5,7 +5,7 @@ It is modified version of bitcoin and it's pow mechanism. Heavy computations are
 
 HOW TO MINING WITHOUT INSTALL ANY PROGRAM: [https://youtu.be/6ADEtxtAEyQ](https://youtu.be/6ADEtxtAEyQ)
 
-HOW TO INSTALL: [https://youtu.be/z3Eh1TgPu78](https://youtu.be/z3Eh1TgPu78)
+HOW TO INSTALL OCVCOIN CORE: [https://youtu.be/z3Eh1TgPu78](https://youtu.be/z3Eh1TgPu78)
 
 COMMUNITY: [https://bitcointalk.org/index.php?topic=5364831.0](https://bitcointalk.org/index.php?topic=5364831.0)
 
