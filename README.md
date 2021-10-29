@@ -3,7 +3,7 @@ What is Ocvcoin?
 
 It is modified version of bitcoin and it's pow mechanism. Heavy computations are used for resistance to asics. It uses the Open CV library for these computations.
 
-HOW TO MINE: [https://youtu.be/6ADEtxtAEyQ](https://youtu.be/6ADEtxtAEyQ)
+HOW TO MINE OCVCOIN: [https://youtu.be/6ADEtxtAEyQ](https://youtu.be/6ADEtxtAEyQ)
 
 HOW TO INSTALL OCVCOIN CORE: [https://youtu.be/z3Eh1TgPu78](https://youtu.be/z3Eh1TgPu78)
 
