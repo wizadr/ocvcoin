@@ -5,7 +5,7 @@ It is modified version of bitcoin and it's pow mechanism. Heavy computations are
 
 HOW TO MINING WITHOUT INSTALL ANY PROGRAM: [https://youtu.be/6ADEtxtAEyQ](https://youtu.be/6ADEtxtAEyQ)
 
-HOW TO INSTALL & MINING: [https://youtu.be/z3Eh1TgPu78](https://youtu.be/z3Eh1TgPu78)
+HOW TO INSTALL: [https://youtu.be/z3Eh1TgPu78](https://youtu.be/z3Eh1TgPu78)
 
 COMMUNITY: [https://bitcointalk.org/index.php?topic=5364831.0](https://bitcointalk.org/index.php?topic=5364831.0)
 
@@ -26,23 +26,7 @@ OCVCOIN: [ocvcoin-0.21.1-win64-setup.exe](https://github.com/ocvcoin/ocvcoin/rel
 How Can I Mining?
 ----------------
 
-No mining pool yet. You can try to mine with the [built-in mining tool](https://youtu.be/z3Eh1TgPu78) or [our simple miner script](https://github.com/ocvcoin/ocv_miner).
-
-**Via Built-in mining tool:**
-
-Firstly, if you haven't created one yet, you should create a wallet for yourself by clicking the "Create a new wallet" button.
-
-Then you must press the "Receive" button and press the "create new receiving address" button on the page that opens.
-
-Click the "Copy Address" button in the newly opened window and close the window.
-
-Open the console pressing CTRL + T 
-
-To try to mine one block, type "generatetoaddress 1 TheAddressYouJustCopied" in the command line and enter.
-
-**Via Miner Script:**
-
-[https://youtu.be/6ADEtxtAEyQ](https://youtu.be/6ADEtxtAEyQ)
+No mining pool yet. You can try to mine with the [our simple miner script](https://github.com/ocvcoin/ocv_miner).
 
 
 Some Online Services
@@ -51,7 +35,6 @@ Some Online Services
 Block Explorer: [https://explorer.ocvcoin.com/](https://explorer.ocvcoin.com/)
 
 Simple Wallet: [https://wallet.ocvcoin.com/](https://wallet.ocvcoin.com/)
-
 
 
 Build From Source
@@ -95,13 +78,6 @@ sudo ocvcoin-cli createwallet ""
 Get Your Wallet Address:
 
 ```
-sudo ocvcoin-cli getaddressesbylabel ""
-
-```
-
-Simply trying to mine one block:
-
-```
-sudo ocvcoin-cli generatetoaddress 1 yourwalletaddress
+sudo ocvcoin-cli getnewaddress "" bech32
 
 ```
