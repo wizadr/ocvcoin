@@ -9,7 +9,7 @@ HOW TO INSTALL OCVCOIN CORE: [https://youtu.be/z3Eh1TgPu78](https://youtu.be/z3E
 
 COMMUNITY: [https://bitcointalk.org/index.php?topic=5364831.0](https://bitcointalk.org/index.php?topic=5364831.0)
 
-DISCORD: [https://discord.gg/hPymgsnxfw](https://discord.gg/hPymgsnxfw)
+DISCORD: [https://discord.gg/NYYarPzNRA](https://discord.gg/NYYarPzNRA)
 
 Dowload
 ----------------
