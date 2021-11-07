@@ -18,7 +18,7 @@ Dowload
 
 Firstly you need to download, install and run the pow server. (pow server must be running as long as the ocvcoin application is running!)
 
-OCVCOIN'S PROOF-OF-WORK SERVER: [ocvcoin_pow_server-1.0.0.0-win64-setup.exe](https://github.com/ocvcoin/pow_server/releases/download/1.0.0.0/ocvcoin_pow_server-1.0.0.0-win64-setup.exe)
+OCVCOIN'S PROOF-OF-WORK SERVER: [ocvcoin_pow_server-2.0.0.0-win64-setup.exe](https://github.com/ocvcoin/pow_server/releases/download/2.0.0.0/ocvcoin_pow_server-2.0.0.0-win64-setup.exe)
 
 OCVCOIN: [ocvcoin-0.21.1-win64-setup.exe](https://github.com/ocvcoin/ocvcoin/releases/download/v0.21.1/ocvcoin-0.21.1-win64-setup.exe)
 
