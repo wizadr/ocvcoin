@@ -10,6 +10,7 @@ DO I NEED TO UPDATE "miner script"?   YES!
 DO I NEED TO UPDATE "Ocvcoin Core"?   NO!
 
 Also, those who install Ocvcoin Core with UBUNTU automatic installation script should not forget to update the /home/pow_server/pow_server.py
+
 THE LATEST VERSION IS HERE: https://raw.githubusercontent.com/ocvcoin/pow_server/main/pow_server.py
 
 NOTE: RESTART PC AFTER DONE.
